@@ -127,9 +127,9 @@ Before submitting, verify:
 
 ## Your Information
 
-**Name:** [Your Name]
-**Student ID:** [Your Student ID]
-**Design Theme:** [Describe your portfolio theme/style]
+**Name:** Kenneth Musonda
+**Student ID:** 2020056283
+**Design Theme:** Modern minimalist developer portfolio
 
 ### CSS Techniques Used
 - [ ] CSS Custom Properties
